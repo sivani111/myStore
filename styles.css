@@ -39,6 +39,12 @@
     padding: 70px;
     border-radius: 12px;
 }
+
+.box:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
 .login{
     border: 1px solid black;
     text-align: center;

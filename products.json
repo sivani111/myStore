@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Product 1",
+    "image": "assets/imgs/t1.jpg",
     "desc": "Description of the product. Description of the product. ",
     "price": 25
   },
